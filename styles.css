@@ -97,6 +97,8 @@ nav ul li a:hover {
   
 
 /* Home Section - Slideshow */
+
+
 .hero {
     
     position: relative;
@@ -166,6 +168,11 @@ nav ul li a:hover {
 
 .hero .btn:hover {
     background: #ff4a3d;
+}
+
+#fontchange{
+  font-family: 'Bubble Bash', sans-serif;
+                                                
 }
 
 /* About Us Section */
